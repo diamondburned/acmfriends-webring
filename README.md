@@ -8,13 +8,15 @@
 https://acmcsuf.com
 
 ## Members
-- [peekoe](peekoe.net)
-- [diamond](libdb.so)
-- [alieb](lieber.men)
-- [jstitt](jstitt.dev)
+- [peekoe](https://peekoe.net)
+- [diamond](https://libdb.so)
+- [alieb](https://lieber.men)
+- [jstitt](https://jstitt.dev)
 
 ## Usage
 
 ```html
 <webring-element src="https://raw.githubusercontent.com/diamondburned/acmfriends-webring/%3C3-spring-2023/webring.json" />
 ```
+
+
