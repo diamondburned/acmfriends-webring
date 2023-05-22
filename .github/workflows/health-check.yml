@@ -13,6 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: diamondburned/libwebring/.github/actions/health-check@action-tomfoolery
+      - uses: diamondburned/libwebring/.github/actions/health-check@main
         with:
           commit: true
+          scrape-timeout: 5000
+          scrape-for-webring-src: https://raw.githubusercontent.com/diamondburned/acmfriends-webring/%3C3-spring-2023/webring.json
