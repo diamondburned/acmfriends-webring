@@ -1,6 +1,7 @@
 {
   "version": 1,
   "name": "acmFriends",
+  "root": "https://libdb.so/acmfriends-webring",
   "ring": [
     {
       "name": "peekoe",
