@@ -8,10 +8,12 @@
 https://acmcsuf.com
 
 ## Members
-- [peekoe](peekoe.net)
-- [diamond](libdb.so)
-- [alieb](lieber.men)
-- [jstitt](jstitt.dev)
+
+{{- defineDatasource "webring" "./webring.json" }}
+{{- $webring := datasource "webring" }}
+{{- range $webring.ring }}
+- [{{ .name }}]({{ .link }})
+{{- end }}
 
 ## Usage
 
