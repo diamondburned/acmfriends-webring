@@ -8,7 +8,7 @@
 https://acmcsuf.com
 
 ## Members
-- [peekoe](https://peekoe.net)
+- [peekoe](https://www.peekoe.net)
 - [diamond](https://libdb.so)
 - [alieb](https://aaron.lieber.men)
 - [jstitt](https://jstitt.dev)
