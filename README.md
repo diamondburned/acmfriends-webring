@@ -10,7 +10,7 @@ https://acmcsuf.com
 ## Members
 - [peekoe](https://peekoe.net)
 - [diamond](https://libdb.so)
-- [alieb](https://lieber.men)
+- [alieb](https://aaron.lieber.men)
 - [jstitt](https://jstitt.dev)
 
 ## Usage
