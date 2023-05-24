@@ -1,11 +1,4 @@
 {
   "version": 1,
-  "anomalies": {
-    "peekoe.net": {
-      "missingWebring": true
-    },
-    "lieber.men": {
-      "missingWebring": true
-    }
-  }
+  "anomalies": {}
 }
