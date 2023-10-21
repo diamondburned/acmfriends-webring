@@ -1,8 +1,4 @@
 {
   "version": 1,
-  "anomalies": {
-    "libdb.so": {
-      "missingWebring": true
-    }
-  }
+  "anomalies": {}
 }
