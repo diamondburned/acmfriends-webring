@@ -1,4 +1,8 @@
 {
   "version": 1,
-  "anomalies": {}
+  "anomalies": {
+    "aaron.lieber.men": {
+      "dead": true
+    }
+  }
 }
