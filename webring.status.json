@@ -1,7 +1,13 @@
 {
   "version": 1,
   "anomalies": {
+    "charliet.dev": {
+      "dead": true
+    },
     "aaron.lieber.men": {
+      "dead": true
+    },
+    "jstitt.dev": {
       "dead": true
     }
   }
