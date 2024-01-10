@@ -1,6 +1,9 @@
 {
   "version": 1,
   "anomalies": {
+    "libdb.so": {
+      "dead": true
+    },
     "aaron.lieber.men": {
       "dead": true
     }
